@@ -1,4 +1,4 @@
-# Insertiıon Sort Projesi
+# Insertion Sort Projesi
 ## [22,27,16,2,18,6] -> Insertion Sort 
 
 1.**Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
@@ -9,7 +9,7 @@
     4. 2 16 22 27 | 18 6
     5. 2 16 18 22 27 | 6
     6. 2 6 16 18 22 27 |
-2.**BigO gösterimini yazınız.**
+2.**Big-O gösterimini yazınız.**
 >
     Her adımda bir eleman ele alınır. Birinci eleman bi kontrol durumu tutmaz , ikinci eleman 1 durum , üçüncü eleman 2 durum ... 
     şeklinde ilerler. Formülümüz burdan n e kadar toplam ilerleyeceği için ve ilk eleman durum temsil etmediği için (n-1) olur. 
